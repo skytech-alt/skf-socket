@@ -1,0 +1,10 @@
+пакет {
+    имя = "skf-socket"
+    версия = "1.0.0"
+    автор = "SkyMonder"
+    описание = "WebSocket для SkyForge: сервер и клиент, всё на русском"
+    репозиторий = "github.com/skytech-alt/skf-socket"
+    точка_входа = "code/main.skf"
+    теги = ["сеть", "websocket", "сокеты", "общение"]
+    лицензия = "MIT"
+}
